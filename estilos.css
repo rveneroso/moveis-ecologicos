@@ -4,3 +4,7 @@ h1 {
 li {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+body {
+    width: 50%;
+    margin: auto;
+}
