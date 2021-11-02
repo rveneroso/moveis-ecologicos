@@ -2,8 +2,12 @@
 <html>
 <head>
     <!-- Comentário inserido por novodev -->
+<<<<<<< HEAD
+    <!-- Comentário adicionado para teste de rebase -->
+=======
     <!-- Mais uma linha de comentário. Dessa vez para teste do comando git pull" -->
     <!-- E ainda mais uma linha agora para teste do comando git pull rebase -->
+>>>>>>> 2dede1d7de795ad1cf3c8d01d1c2b3709193a4d2
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name="description" content="Móveis Ecológicos">
